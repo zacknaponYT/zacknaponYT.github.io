@@ -1,0 +1,7 @@
+.about {
+    color: rgba(199, 245, 33, 0.94);
+    box-shadow: 10px;
+    box-sizing: content-box;
+    border: none;
+    text-align: center;
+}
